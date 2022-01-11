@@ -1,0 +1,14 @@
+D:\Project\Alg\Alg_Dijkstra_20\bin\Debug\netcoreapp3.1\Alg_Dijkstra_20.exe
+D:\Project\Alg\Alg_Dijkstra_20\bin\Debug\netcoreapp3.1\Alg_Dijkstra_20.deps.json
+D:\Project\Alg\Alg_Dijkstra_20\bin\Debug\netcoreapp3.1\Alg_Dijkstra_20.runtimeconfig.json
+D:\Project\Alg\Alg_Dijkstra_20\bin\Debug\netcoreapp3.1\Alg_Dijkstra_20.runtimeconfig.dev.json
+D:\Project\Alg\Alg_Dijkstra_20\bin\Debug\netcoreapp3.1\Alg_Dijkstra_20.dll
+D:\Project\Alg\Alg_Dijkstra_20\bin\Debug\netcoreapp3.1\Alg_Dijkstra_20.pdb
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.csproj.AssemblyReference.cache
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.AssemblyInfoInputs.cache
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.AssemblyInfo.cs
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.csproj.CoreCompileInputs.cache
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.dll
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.pdb
+D:\Project\Alg\Alg_Dijkstra_20\obj\Debug\netcoreapp3.1\Alg_Dijkstra_20.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Project\Alg\SelectSort_3\bin\Debug\netcoreapp3.1\SelectSort_3.exe
+D:\Project\Alg\SelectSort_3\bin\Debug\netcoreapp3.1\SelectSort_3.deps.json
+D:\Project\Alg\SelectSort_3\bin\Debug\netcoreapp3.1\SelectSort_3.runtimeconfig.json
+D:\Project\Alg\SelectSort_3\bin\Debug\netcoreapp3.1\SelectSort_3.runtimeconfig.dev.json
+D:\Project\Alg\SelectSort_3\bin\Debug\netcoreapp3.1\SelectSort_3.dll
+D:\Project\Alg\SelectSort_3\bin\Debug\netcoreapp3.1\SelectSort_3.pdb
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.csproj.AssemblyReference.cache
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.AssemblyInfoInputs.cache
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.AssemblyInfo.cs
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.csproj.CoreCompileInputs.cache
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.dll
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.pdb
+D:\Project\Alg\SelectSort_3\obj\Debug\netcoreapp3.1\SelectSort_3.genruntimeconfig.cache

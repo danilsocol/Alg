@@ -1,0 +1,14 @@
+D:\Project\Alg\InsertSort_2\bin\Debug\netcoreapp3.1\InsertSort_2.exe
+D:\Project\Alg\InsertSort_2\bin\Debug\netcoreapp3.1\InsertSort_2.deps.json
+D:\Project\Alg\InsertSort_2\bin\Debug\netcoreapp3.1\InsertSort_2.runtimeconfig.json
+D:\Project\Alg\InsertSort_2\bin\Debug\netcoreapp3.1\InsertSort_2.runtimeconfig.dev.json
+D:\Project\Alg\InsertSort_2\bin\Debug\netcoreapp3.1\InsertSort_2.dll
+D:\Project\Alg\InsertSort_2\bin\Debug\netcoreapp3.1\InsertSort_2.pdb
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.csproj.AssemblyReference.cache
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.AssemblyInfoInputs.cache
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.AssemblyInfo.cs
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.csproj.CoreCompileInputs.cache
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.dll
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.pdb
+D:\Project\Alg\InsertSort_2\obj\Debug\netcoreapp3.1\InsertSort_2.genruntimeconfig.cache

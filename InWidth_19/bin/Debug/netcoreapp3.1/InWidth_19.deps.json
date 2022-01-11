@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InWidth_19/1.0.0": {
+        "runtime": {
+          "InWidth_19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InWidth_19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

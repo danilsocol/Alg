@@ -1,0 +1,14 @@
+D:\Project\Alg\Queue_15\bin\Debug\netcoreapp3.1\Queue_15.exe
+D:\Project\Alg\Queue_15\bin\Debug\netcoreapp3.1\Queue_15.deps.json
+D:\Project\Alg\Queue_15\bin\Debug\netcoreapp3.1\Queue_15.runtimeconfig.json
+D:\Project\Alg\Queue_15\bin\Debug\netcoreapp3.1\Queue_15.runtimeconfig.dev.json
+D:\Project\Alg\Queue_15\bin\Debug\netcoreapp3.1\Queue_15.dll
+D:\Project\Alg\Queue_15\bin\Debug\netcoreapp3.1\Queue_15.pdb
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.csproj.AssemblyReference.cache
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.AssemblyInfoInputs.cache
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.AssemblyInfo.cs
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.csproj.CoreCompileInputs.cache
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.dll
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.pdb
+D:\Project\Alg\Queue_15\obj\Debug\netcoreapp3.1\Queue_15.genruntimeconfig.cache

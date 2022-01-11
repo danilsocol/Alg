@@ -1,0 +1,14 @@
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.csproj.AssemblyReference.cache
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.AssemblyInfoInputs.cache
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.AssemblyInfo.cs
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.csproj.CoreCompileInputs.cache
+D:\Project\Alg\InDepth_18\bin\Debug\netcoreapp3.1\InDepth_18.exe
+D:\Project\Alg\InDepth_18\bin\Debug\netcoreapp3.1\InDepth_18.deps.json
+D:\Project\Alg\InDepth_18\bin\Debug\netcoreapp3.1\InDepth_18.runtimeconfig.json
+D:\Project\Alg\InDepth_18\bin\Debug\netcoreapp3.1\InDepth_18.runtimeconfig.dev.json
+D:\Project\Alg\InDepth_18\bin\Debug\netcoreapp3.1\InDepth_18.dll
+D:\Project\Alg\InDepth_18\bin\Debug\netcoreapp3.1\InDepth_18.pdb
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.dll
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.pdb
+D:\Project\Alg\InDepth_18\obj\Debug\netcoreapp3.1\InDepth_18.genruntimeconfig.cache

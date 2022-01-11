@@ -1,0 +1,14 @@
+D:\Project\Alg\BinaryFind_6\bin\Debug\netcoreapp3.1\BinaryFind_6.exe
+D:\Project\Alg\BinaryFind_6\bin\Debug\netcoreapp3.1\BinaryFind_6.deps.json
+D:\Project\Alg\BinaryFind_6\bin\Debug\netcoreapp3.1\BinaryFind_6.runtimeconfig.json
+D:\Project\Alg\BinaryFind_6\bin\Debug\netcoreapp3.1\BinaryFind_6.runtimeconfig.dev.json
+D:\Project\Alg\BinaryFind_6\bin\Debug\netcoreapp3.1\BinaryFind_6.dll
+D:\Project\Alg\BinaryFind_6\bin\Debug\netcoreapp3.1\BinaryFind_6.pdb
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.csproj.AssemblyReference.cache
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.AssemblyInfoInputs.cache
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.AssemblyInfo.cs
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.csproj.CoreCompileInputs.cache
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.dll
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.pdb
+D:\Project\Alg\BinaryFind_6\obj\Debug\netcoreapp3.1\BinaryFind_6.genruntimeconfig.cache

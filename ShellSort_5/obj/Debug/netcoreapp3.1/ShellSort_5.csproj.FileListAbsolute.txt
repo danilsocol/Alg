@@ -1,0 +1,14 @@
+D:\Project\Alg\ShellSort_5\bin\Debug\netcoreapp3.1\ShellSort_5.exe
+D:\Project\Alg\ShellSort_5\bin\Debug\netcoreapp3.1\ShellSort_5.deps.json
+D:\Project\Alg\ShellSort_5\bin\Debug\netcoreapp3.1\ShellSort_5.runtimeconfig.json
+D:\Project\Alg\ShellSort_5\bin\Debug\netcoreapp3.1\ShellSort_5.runtimeconfig.dev.json
+D:\Project\Alg\ShellSort_5\bin\Debug\netcoreapp3.1\ShellSort_5.dll
+D:\Project\Alg\ShellSort_5\bin\Debug\netcoreapp3.1\ShellSort_5.pdb
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.csproj.AssemblyReference.cache
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.AssemblyInfoInputs.cache
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.AssemblyInfo.cs
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.csproj.CoreCompileInputs.cache
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.dll
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.pdb
+D:\Project\Alg\ShellSort_5\obj\Debug\netcoreapp3.1\ShellSort_5.genruntimeconfig.cache

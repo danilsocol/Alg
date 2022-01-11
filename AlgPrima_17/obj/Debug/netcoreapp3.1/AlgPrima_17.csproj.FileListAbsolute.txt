@@ -1,0 +1,14 @@
+D:\Project\Alg\AlgPrima_17\bin\Debug\netcoreapp3.1\AlgPrima_17.exe
+D:\Project\Alg\AlgPrima_17\bin\Debug\netcoreapp3.1\AlgPrima_17.deps.json
+D:\Project\Alg\AlgPrima_17\bin\Debug\netcoreapp3.1\AlgPrima_17.runtimeconfig.json
+D:\Project\Alg\AlgPrima_17\bin\Debug\netcoreapp3.1\AlgPrima_17.runtimeconfig.dev.json
+D:\Project\Alg\AlgPrima_17\bin\Debug\netcoreapp3.1\AlgPrima_17.dll
+D:\Project\Alg\AlgPrima_17\bin\Debug\netcoreapp3.1\AlgPrima_17.pdb
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.csproj.AssemblyReference.cache
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.AssemblyInfoInputs.cache
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.AssemblyInfo.cs
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.csproj.CoreCompileInputs.cache
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.dll
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.pdb
+D:\Project\Alg\AlgPrima_17\obj\Debug\netcoreapp3.1\AlgPrima_17.genruntimeconfig.cache

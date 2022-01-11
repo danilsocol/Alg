@@ -1,0 +1,14 @@
+D:\Project\Alg\SortBinaryTree_9\bin\Debug\netcoreapp3.1\SortBinaryTree_9.exe
+D:\Project\Alg\SortBinaryTree_9\bin\Debug\netcoreapp3.1\SortBinaryTree_9.deps.json
+D:\Project\Alg\SortBinaryTree_9\bin\Debug\netcoreapp3.1\SortBinaryTree_9.runtimeconfig.json
+D:\Project\Alg\SortBinaryTree_9\bin\Debug\netcoreapp3.1\SortBinaryTree_9.runtimeconfig.dev.json
+D:\Project\Alg\SortBinaryTree_9\bin\Debug\netcoreapp3.1\SortBinaryTree_9.dll
+D:\Project\Alg\SortBinaryTree_9\bin\Debug\netcoreapp3.1\SortBinaryTree_9.pdb
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.csproj.AssemblyReference.cache
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.AssemblyInfoInputs.cache
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.AssemblyInfo.cs
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.csproj.CoreCompileInputs.cache
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.dll
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.pdb
+D:\Project\Alg\SortBinaryTree_9\obj\Debug\netcoreapp3.1\SortBinaryTree_9.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Project\Alg\Stack_14\bin\Debug\netcoreapp3.1\Stack_14.exe
+D:\Project\Alg\Stack_14\bin\Debug\netcoreapp3.1\Stack_14.deps.json
+D:\Project\Alg\Stack_14\bin\Debug\netcoreapp3.1\Stack_14.runtimeconfig.json
+D:\Project\Alg\Stack_14\bin\Debug\netcoreapp3.1\Stack_14.runtimeconfig.dev.json
+D:\Project\Alg\Stack_14\bin\Debug\netcoreapp3.1\Stack_14.dll
+D:\Project\Alg\Stack_14\bin\Debug\netcoreapp3.1\Stack_14.pdb
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.csproj.AssemblyReference.cache
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.AssemblyInfoInputs.cache
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.AssemblyInfo.cs
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.csproj.CoreCompileInputs.cache
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.dll
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.pdb
+D:\Project\Alg\Stack_14\obj\Debug\netcoreapp3.1\Stack_14.genruntimeconfig.cache

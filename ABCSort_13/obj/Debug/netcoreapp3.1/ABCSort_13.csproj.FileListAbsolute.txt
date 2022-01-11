@@ -1,0 +1,14 @@
+D:\Project\Alg\ABCSort_13\bin\Debug\netcoreapp3.1\ABCSort_13.exe
+D:\Project\Alg\ABCSort_13\bin\Debug\netcoreapp3.1\ABCSort_13.deps.json
+D:\Project\Alg\ABCSort_13\bin\Debug\netcoreapp3.1\ABCSort_13.runtimeconfig.json
+D:\Project\Alg\ABCSort_13\bin\Debug\netcoreapp3.1\ABCSort_13.runtimeconfig.dev.json
+D:\Project\Alg\ABCSort_13\bin\Debug\netcoreapp3.1\ABCSort_13.dll
+D:\Project\Alg\ABCSort_13\bin\Debug\netcoreapp3.1\ABCSort_13.pdb
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.csproj.AssemblyReference.cache
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.AssemblyInfoInputs.cache
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.AssemblyInfo.cs
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.csproj.CoreCompileInputs.cache
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.dll
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.pdb
+D:\Project\Alg\ABCSort_13\obj\Debug\netcoreapp3.1\ABCSort_13.genruntimeconfig.cache

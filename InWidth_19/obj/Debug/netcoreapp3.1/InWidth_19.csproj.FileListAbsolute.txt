@@ -1,0 +1,14 @@
+D:\Project\Alg\InWidth_19\bin\Debug\netcoreapp3.1\InWidth_19.exe
+D:\Project\Alg\InWidth_19\bin\Debug\netcoreapp3.1\InWidth_19.deps.json
+D:\Project\Alg\InWidth_19\bin\Debug\netcoreapp3.1\InWidth_19.runtimeconfig.json
+D:\Project\Alg\InWidth_19\bin\Debug\netcoreapp3.1\InWidth_19.runtimeconfig.dev.json
+D:\Project\Alg\InWidth_19\bin\Debug\netcoreapp3.1\InWidth_19.dll
+D:\Project\Alg\InWidth_19\bin\Debug\netcoreapp3.1\InWidth_19.pdb
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.csproj.AssemblyReference.cache
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.AssemblyInfoInputs.cache
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.AssemblyInfo.cs
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.csproj.CoreCompileInputs.cache
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.dll
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.pdb
+D:\Project\Alg\InWidth_19\obj\Debug\netcoreapp3.1\InWidth_19.genruntimeconfig.cache
